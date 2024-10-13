@@ -27,7 +27,7 @@ This project is a Python application that shows Object-Oriented Programming (OOP
    Make sure you have Python 3 and Tkinter installed on your system.
 3. **Install Dependencies**:
    ```bash
-   python main.py
+   python gui_app.py
  ## Project Structure
    ```bash
    OOP-Library-Accounting-System/
